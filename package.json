@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-node-builtins",
+  "name": "@gkatsev/rollup-plugin-node-builtins",
   "version": "2.1.1",
   "description": "use node builtins in browser with rollup",
   "main": "dist/rollup-plugin-node-builtins.cjs.js",
